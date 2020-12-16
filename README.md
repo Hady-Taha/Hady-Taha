@@ -1,5 +1,4 @@
 ### Hi there  I'm Hady Taha 👋
-
 ======
 
 ## I'm a Python Developer
