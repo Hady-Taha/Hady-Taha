@@ -27,6 +27,10 @@
 <img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" /> 
 <img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" />
 <img align="left"  width="26px" src="https://miro.medium.com/max/285/1*QR2SBNwG75LyY5uwqWpN3A.png" />
+<img align="left"  width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/205/full/javascriptlang.png" />
+<img align="left"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
+
+
 <br />
 
 ------
