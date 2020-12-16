@@ -26,7 +26,7 @@
 <img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" />
 <img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" /> 
 <img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" />
-
+<img align="left"  width="26px" src="https://miro.medium.com/max/285/1*QR2SBNwG75LyY5uwqWpN3A.png" />
 <br />
 
 ------
