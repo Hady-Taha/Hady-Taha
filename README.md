@@ -22,6 +22,7 @@
 [<img align="left"  width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />]()
 [<img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" />]()
 [<img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />]() 
+</br>
 ======
 
 >Make it work, make it right, make it fast.
