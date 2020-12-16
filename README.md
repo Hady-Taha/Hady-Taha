@@ -1,14 +1,14 @@
 ### Hi there  I'm Hady Taha 👋
 
 
-##I'm a Python Developer
+###I'm a Python Developer
 
 - 🔭 I’m currently working as a freelancer !
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate with other developers
 - 🐱‍👓 Contribute more to Open Source projects & setup my company
 
-##Connect with me:
+###Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145812.svg"/>](https://twitter.com/HadyTaha77)
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg"/>](https://www.instagram.com/haditaha__/)
 
