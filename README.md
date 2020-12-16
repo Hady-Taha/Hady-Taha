@@ -24,15 +24,15 @@
 <img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" /> 
 <img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" />
 
-<br/>
+
  
  ------
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hady-Taha&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hady-Taha&show_icons=true&hide_border=true" />\
 
-<br/>
+
  
  > Tea. The finest organic suspension ever devised... I beat the Borg with it.
 
 
-</br>
+
