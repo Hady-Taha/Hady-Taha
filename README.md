@@ -11,9 +11,9 @@
 ## Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145812.svg"/>](https://twitter.com/HadyTaha77)
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg"/>](https://www.instagram.com/haditaha__/)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg"/>](https://www.instagram.com/haditaha__/)</br>
 
-</br>
+
 
 ## Languages and Tools:
 
@@ -24,9 +24,9 @@
 [<img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />]() </br>
 
  
-</br>
 
- >Make it work, make it right, make it fast. </br>
+
+ >Make it work, make it right, make it fast. 
 
 
 
