@@ -32,4 +32,6 @@
 
 </br>
 
->Make it work, make it right, make it fast. 
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> - Captain Janeway
+
