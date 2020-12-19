@@ -12,9 +12,9 @@
 ## Connect with me:
 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145812.svg"/>](https://twitter.com/HadyTaha77)
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg"/>](https://www.instagram.com/haditaha__/)
-[<img align="left" alt="codeSTACKr.com"  src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>](https://www.linkedin.com/in/hady-taha/)
+[<img align="left" alt="codeSTACKr.com" width="22px"  hight="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145812.svg"/>](https://twitter.com/HadyTaha77)
+[<img align="left" alt="codeSTACKr.com" width="22px" hight="22px"  src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg"/>](https://www.instagram.com/haditaha__/)
+[<img align="left" alt="codeSTACKr.com" width="22px" hight="22px"  src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>](https://www.linkedin.com/in/hady-taha/)
 </br>
 
 
