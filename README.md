@@ -22,15 +22,19 @@
 ## Languages and Tools:
 
 
-<img align="left"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg"/>
-<img align="left"  width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg"/>
-<img align="left"  width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
-<img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919852.svg" />
-<img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" /> 
-<img align="left"  width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" />
+<img align="left"   src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left"   src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img align="left"  width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/205/full/javascriptlang.png" />
-<img align="left"  width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left"   src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img align="left"   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left"   src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left"   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left"   src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left"   src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left"   src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left"   src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img align="left"   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left"   src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
 
 
 <br />
