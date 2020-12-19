@@ -1,7 +1,7 @@
 # Hi there  I'm Hady Taha 👋
 
 
-## I'm a Python Developer
+## I'm a full stack developer
 
 - 🔭 I’m currently working as a freelancer !
 - 🌱 I’m currently learning Django
