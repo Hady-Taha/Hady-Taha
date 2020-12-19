@@ -27,7 +27,7 @@
   <img align="left"   src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img align="left"   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="left"   src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="left"   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
+  <img align="left"   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
 
 
  
@@ -36,21 +36,19 @@
   <img align="left"   src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="left"   src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img align="left"   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="left"   src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />  
-
-
-
-#
-
-
-
-<img  alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hady-Taha&show_icons=true&hide_border=false" />
+  <img align="left"   src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /><br/>
 
 
 
 
 
-> “Make it work, make it right, make it fast.” – Kent Beck.
+  <img  alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hady-Taha&show_icons=true&hide_border=false" /><br/>
+
+
+
+
+
+  > “Make it work, make it right, make it fast.” – Kent Beck.
 
 
 
